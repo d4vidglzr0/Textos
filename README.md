@@ -1,2 +1,4 @@
 # Textos
 proyecto de analisis inteligente de textos
+
+El presente trabajo compara el rendimiento de dos modelos de clasificación, SVC (Support Vector Classifier) y MultinomialNB (Multinomial Naive Bayes), centrándose en el análisis e identificación de patrones emocionales en publicaciones de Reddit relacionadas con las elecciones de México en 2024. El objetivo principal es determinar cuál de estos modelos es más efectivo en distinguir entre dos categorías principales de publicaciones: aquellas que expresan molestia y aquellas que mantienen un tono neutral. Una vez que los modelos están entrenados, se evalúa su rendimiento utilizando métricas estándar de evaluación, como precisión, recall y F1-score. Los resultados obtenidos permiten una comparación detallada de la precisión y eficiencia de ambos modelos en este contexto específico, lo que puede informar futuras investigaciones sobre el análisis de sentimientos en discursos políticos en línea.
